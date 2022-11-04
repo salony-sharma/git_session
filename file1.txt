@@ -3,3 +3,5 @@ modified file1
 temporary updations
 
 Adding a branch" bug1 to fix bug
+Adding fix for bug2.
+
