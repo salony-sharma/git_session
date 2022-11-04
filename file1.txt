@@ -2,4 +2,5 @@ this is file 2
 modified file1
 temporary updations
 
-Adding a branch" bug1 to fix bug
+Adding a branch" bug1 to fix bug.
+updating from github
