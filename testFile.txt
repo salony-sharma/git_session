@@ -13,8 +13,8 @@ Adding fix for CR1 !!!
 
 Adding Enhancements !!!
 
-Change 1 – commit with message as “Change1 in File1”
-Change 2 – commit with message as “Change2 in File1”
+Change1 – commit with message as “Change1 in File1”
+Change2 – commit with message as “Change2 in File1”
 
 
 
